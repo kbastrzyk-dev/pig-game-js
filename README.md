@@ -14,5 +14,4 @@ Play the game here: **https://kbastrzyk-dev.github.io/pig-game-js/**
 ## Features
 * **Random Dice Generation:** Uses `Math.random` to simulate realistic dice rolls from 1 to 6.
 * **State Management:** Tracks active players, scores, and game status internally.
-* **Modern UI:** Built with CSS Flexbox and advanced effects like `backdrop-filter: blur(200px)`.
 * **Responsive Design:** Smooth transitions (`0.75s`) when switching between active players [cite: style.css
