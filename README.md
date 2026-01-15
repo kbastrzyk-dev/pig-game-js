@@ -3,7 +3,7 @@
 A modern, interactive dice game for two players built with Vanilla JavaScript. This project features a sleek "Glassmorphism" design and real-time DOM manipulation.
 
 ## Live Demo
-Play the game here: **(https://kbastrzyk-dev.github.io/pig-game-js/)**
+Play the game here: **https://kbastrzyk-dev.github.io/pig-game-js/**
 
 ## Game Rules
 * **Roll the Dice:** Each turn, a player rolls a die as many times as they wish. 
